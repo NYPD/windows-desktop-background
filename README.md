@@ -14,4 +14,4 @@ Registry tweak that opens the directory of the current wallpaper Windows 10 is u
 
 ## Background
 
-Most of the code in these scripts come from [this blog post](https://confidentialfiles.wordpress.com/2013/12/09/finding-wallpaper-location-in-windows-7-and-windows-8/). chanegs were made to support multiple backgounds on diffrent monitors. Its still a bit wonky, but maybe someone else can make it a bit better.
+Most of the code in these scripts come from [this blog post](https://confidentialfiles.wordpress.com/2013/12/09/finding-wallpaper-location-in-windows-7-and-windows-8/). Changes were made to support multiple backgounds on diffrent monitors. Its still a bit wonky, but maybe someone else can make it a bit better.
